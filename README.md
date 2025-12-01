@@ -65,24 +65,4 @@ Busco sempre boas práticas, código limpo e soluções eficientes.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 📬 Contato
-
-📧 **Email:** seuemail@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/SEU-LINKEDIN  
-🐙 **GitHub:** https://github.com/SEU-USUARIO  
-
----
-
 ⭐ *Sinta-se à vontade para explorar meus repositórios!*
